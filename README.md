@@ -2,7 +2,7 @@
 <h2> SUNNY SUMMER ! Frontend Developer 🏖 <h1> Kim - A - Reum </h1> <br/><br/>
 <div align = "left">
 <h3> 📖  Currently learning <br/><br/>
-<strong> React, Next.js, Javascript and TypeScript<br/>
+<i> React , React Native , Next.js , Javascript and TypeScript<br/>
 
 <!-- <br/><br/>
 이유있는 로직을 짜는 **효율적인 프론트엔드 개발자** 김아름입니다. -->
@@ -10,7 +10,7 @@
   
 <br/>
 
-#### ✔ Stack
+####  📍 Stack
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> 
@@ -26,7 +26,7 @@
 
 <br/>
   
-#### ✔ Studying
+#### 📍 Studying
 <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=Google Cloud&logoColor=white"/> 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> 
@@ -34,7 +34,7 @@
 
 <br/>
   
-#### ✔ Link
+#### 📍  Link
 <a href="https://summereum.notion.site/SUNNY-SUMMER-5d8c27f89cf040088999a027e9ddbfdd" target="_blank">
 <img src="https://img.shields.io/badge/Tech Notion-09a5ed?style=flat-square"/> 
 <a href="https://velog.io/@kimareum" target="_blank">
