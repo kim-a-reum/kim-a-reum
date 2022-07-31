@@ -1,7 +1,7 @@
 <div align="center">
 <h2> SUNNY SUMMER ! Frontend Developer 🏖 <h1> Kim - A - Reum </h1> <br/>
 <div align = "left">
-<h3> 📖  Currently learning <br/><br/>
+<h3> 📖  Currently learning <br/><br/><br/>
 <i> React , React Native , Next.js , Javascript and TypeScript<br/>
 <br/>
 
