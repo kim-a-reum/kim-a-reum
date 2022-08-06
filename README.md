@@ -5,7 +5,7 @@
 <i> React , React Native , Next.js , Javascript and TypeScript<br/>
 <br/>
 
-<!-- <br/><br/>
+<!-- <br/><br/><br/>
 이유있는 로직을 짜는 **효율적인 프론트엔드 개발자** 김아름입니다. -->
 <!-- <br/><br/> -->
   
