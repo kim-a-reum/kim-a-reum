@@ -38,6 +38,8 @@
 #### 📍  Link
 <a href="https://summereum.notion.site/SUNNY-SUMMER-5d8c27f89cf040088999a027e9ddbfdd" target="_blank">
 <img src="https://img.shields.io/badge/Tech Notion-09a5ed?style=flat-square"/> 
+<a href="https://summereumi.tistory.com/" target="_blank">
+<img src="https://img.shields.io/badge/Tech Blog-09a5ed?style=flat-square"/> 
 <a href="https://velog.io/@kimareum" target="_blank">
 <img src="https://img.shields.io/badge/Til Blog-09a5ed?style=flat-square"/> 
 <a href="mailto:mollyddong@gmail.com" target="_blank">
