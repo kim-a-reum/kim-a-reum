@@ -18,7 +18,8 @@
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apollo Client-311C87?style=flat-square&logo=Apollo GraphQL&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white"/><br/>
-
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Redux-Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white"/><br/>
 
 
 <br/>
