@@ -5,7 +5,7 @@
   <br/><br/>
 <div align = "left">
 <h3> 📖  Currently learning <br/><br/><br/>
-<i> React , React Native , Next.js , Javascript and TypeScript<br/><br/>
+<i> React , React Native , Next.js , Javascript and TypeScript<br/><br/><i/>
 <br/>
 
   📍 Career
