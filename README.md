@@ -1,7 +1,7 @@
 <div align="center">
 <h2> SUNNY SUMMER ! Frontend Developer 🏖 
   <h1> Kim - A - Reum </h1> <br/>
-  <h4> 명쾌한, 명확한 것을 좋아하는 프론트엔드 개발자 summer입니다! </h4>
+  <h4> 명쾌한, 명확한 것을 좋아하는 프론트엔드 개발자 summer, 김아름 입니다! </h4>
   <br/><br/>
 <div align = "left">
 <h3> 📖  Currently learning <br/><br/><br/>
@@ -9,7 +9,10 @@
 <br/>
 
   📍 Career
-
+  <br/>
+  <h4> 2021. 11 ~ 진행중 아이엠폼 / 테크개발팀 - 미래에셋페이 admin , 사내 키오스크 개발 </h4> <br/>
+  <h4> 2022. 06 ~ 2021. 11 (주) 딩코 / Codecamp Associate Instructor - Jr. Front-end Enginer & Mento - 수강생 교육 및 사내 프론트 사이드 개발 </h4> <br/>
+ <h4> 2018. 11 ~ 2021. 12 파라다이스 워커힐 카지노 (외국인 전용 카지노) - 홀덤포커 게임 진행 및 손님 응대   </h4> <br/>
 <br/>
 
 ####  📍 Stack
