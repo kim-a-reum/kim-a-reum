@@ -1,7 +1,7 @@
 <div align="center">
 <h2> SUNNY SUMMER ! Frontend Developer 🏖 
   <h1> Kim - A - Reum </h1> <br/>
-  <h4>ddd</h4>
+  <h4> 명쾌한, 명확한 것을 좋아하는 프론트엔드 개발자 summer입니다! </h4>
   <br/><br/>
 <div align = "left">
 <h3> 📖  Currently learning <br/><br/><br/>
