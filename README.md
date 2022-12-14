@@ -4,7 +4,8 @@
 <h3> 📖  Currently learning <br/><br/><br/>
 <i> React , React Native , Next.js , Javascript and TypeScript<br/><br/>
 <br/>
-####  📍 Career
+
+  📍 Career
 
 <br/>
 
