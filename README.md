@@ -41,6 +41,8 @@
   
 #### 📍  Link
 
+<a href="https://www.notion.so/535a3cf47c904e4080ccae013ceb59d3" target="_blank">
+  <img src="https://img.shields.io/badge/My Career-09a5ed?style=flat-square"/> 
 <a href="https://summereumi.tistory.com/" target="_blank">
 <img src="https://img.shields.io/badge/Tech Blog-09a5ed?style=flat-square"/> 
 <a href="https://velog.io/@kimareum" target="_blank">
